@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: aquamarine;
+    
+}
+.root {
+    --letra1: 'Do Hyeon', sans-serif;
+    --letra2: 'Yanone Kaffeesatz', sans-serif;
+}
+.title{
+    font-family:(var(--letra1))
+}
+h2{
+    text-align: center;
+    color: rgb(4, 12, 12);
+    text-transform: uppercase;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
+}
+h1{
+    color: rgb(0, 8, 8);
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    line-height: 100px;
+
+}
+    
+

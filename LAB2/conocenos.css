@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(211, 92, 23);
+}
+.img1{
+    width: 200px;
+    border-radius: 75px;
+}
+.img2{
+    width: 200px;
+    border-radius: 75px;
+}

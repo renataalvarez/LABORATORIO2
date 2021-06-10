@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(238, 255, 0);
+}
+.root {
+    --letra1: 'Do Hyeon', sans-serif;
+    --letra2: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.title{
+    font-family:(var(--letra2))
+}

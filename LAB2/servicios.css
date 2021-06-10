@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(224, 19, 139);
+}
+.P1{
+    width: 200px;
+    border-radius: 75px;
+    align-items: center;
+}
+.P2{
+    width: 200px;
+    border-radius: 75px;
+}
+.P3{
+    width: 200px;
+    border-radius: 75px;
+}
